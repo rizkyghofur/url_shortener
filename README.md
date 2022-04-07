@@ -2,4 +2,4 @@
 
 Project sederhana URL Shortener dengan Flutter
 
-[API Diberdaya oleh Goolnk](https://goolnk.com/)
+API diberdaya oleh [Goolnk](https://goolnk.com/)
